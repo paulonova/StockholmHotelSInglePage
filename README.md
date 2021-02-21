@@ -7,5 +7,3 @@ and shows a variety of techniques including dockable menus, <strong>responsive g
 
 
 <a href="https://paulonova.github.io/StockholmHotelSInglePage"> Link to website </a>
-<br>
-<a href="https://github.com/paulonova/HotelStockholmSilglePage"> Link to original SAS project </a>
