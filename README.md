@@ -6,4 +6,4 @@ GitPages - Fake Hotel in Stockholm
 and shows a variety of techniques including dockable menus, <strong>responsive grids</strong>, tween and parallax effects, etc.</p>
 
 
-<a href="https://paulonova.github.io/StockholmHotelSInglePage"> Link to website </a>
+<a href="https://paulonova.github.io/StockholmHotelSInglePage" target="_blank"> Link to website </a>
